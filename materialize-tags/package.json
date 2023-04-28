@@ -1,0 +1,37 @@
+{
+  "name": "materialize-tags",
+  "version": "1.0.0",
+  "description": "A jQuery tags input plugin based on Materialize",
+  "main": "dist/js/materialize-tags.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "materialize-css" : "^0.97.8"
+  },
+  "devDependencies": {
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-concat": "^2.6.0",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-zip": "^3.2.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrychavez/materialize-tags.git"
+  },
+  "keywords": [
+    "materialize"
+  ],
+  "author": "Henry Chávez <henry19.chavez@gmail.com> (http://www.bytpher.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henrychavez/materialize-tags/issues"
+  },
+  "homepage": "https://github.com/henrychavez/materialize-tags"
+}
